@@ -11,6 +11,10 @@ const options = {
     },
     servers: [
       {
+        url: 'http://andynguyen03006.ddns.net:3001',
+        description: 'Production server',
+      },
+      {
         url: 'http://localhost:3001',
         description: 'Development server',
       },
